@@ -57,9 +57,9 @@ This project implements a Google Drive-like file system in C++ using various dat
 
 ```
 google-drive-fs/
-├── main.cpp           # Main program with all implementations
-├── input.txt          # Sample input file for testing
-└── README.md          # Project documentation
+├── Google Drive File System.cpp           # Main program with all implementations
+├── Google Drive File System.txt           # Sample input file for testing
+└── README.md                              # Project documentation
 ```
 
 ### Project Structure
@@ -86,13 +86,13 @@ google-drive-fs/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/google-drive-fs.git
+git clone https://github.com/ayesha189/Google-Drive-file-system
 
 # Navigate to project directory
-cd google-drive-fs
+cd Google-Drive-file-system
 
 # Compile the program
-g++ main.cpp -o filesystem
+g++ Google-Drive-file-system.cpp -o filesystem
 
 # Run the program
 ./filesystem
@@ -294,28 +294,20 @@ Files shared with User3: photo1.jpg, song.mp3
 - [ ] Create a GUI interface using Qt or similar framework
 - [ ] Add support for file encryption
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-### Steps to Contribute
+## 📝 License
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Educational university project — free to use and modify for learning purposes.
 
-## 📄 License
+---
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📧 Contact
+**Ayesha Rauf** — [@ayesha189](https://github.com/ayesha189)  
+**Project Link**: [https://github.com/ayesha189/Google-Drive-file-system]
 
-## 👨‍💻 Author
+---
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 
